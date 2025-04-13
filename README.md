@@ -8,3 +8,6 @@ An AR (Augmented Reality) application in computer vision is a software system th
 3)using bruteforce knn=2 & apply ratio matching if ratio<0.5.
 4)get first 50 correspondance.
 ### 1.2) Compute the Homography Parameters
+1)function compute homography : computes homography matrix using DLT with SVM
+2)function verify matrix: compare the average of all projected point distances with the original destination distances
+### 1.3) Calculate Book Coordinates
