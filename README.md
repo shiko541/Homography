@@ -11,3 +11,7 @@ An AR (Augmented Reality) application in computer vision is a software system th
 1)function compute homography : computes homography matrix using DLT with SVM
 2)function verify matrix: compare the average of all projected point distances with the original destination distances
 ### 1.3) Calculate Book Coordinates
+1)get the book image coordinates
+2)p'=H.p
+2)Draw polygon around points p'
+### 1.4) 
